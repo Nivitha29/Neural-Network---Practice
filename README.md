@@ -10,7 +10,7 @@ These notebooks follow the [StatQuest Illustrated Guide to Neural Networks and A
 
 | Notebook | Description |
 |---|---|
-| `neural_network_pretrained_weights.ipynb` | Building a simple neural network with pretrained weights and biases using PyTorch. Step-by-step visualization of how each neuron transforms input values through weights, biases, and ReLU activation. |
+| `Pretrained_neuralnetwork.ipynb` | Building a simple neural network with pretrained weights and biases using PyTorch. Step-by-step visualization of how each neuron transforms input values through weights, biases, and ReLU activation. |
 
 ---
 
